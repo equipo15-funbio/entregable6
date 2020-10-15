@@ -670,7 +670,7 @@ a {
     transition: color 0.6s;
 }@isPublish: true;
 
-.cid-sd1yJySk7M {
+.cid-sdvszP5D73 {
 @fullWidth: true;
 @showLogo: true;
 @logoSize: 5.7;
@@ -1079,7 +1079,7 @@ a.nav-link {
 }
 }
 
-.cid-sd1yRqGTAE {
+.cid-sdvsAfq1fX {
 @fullScreen: true;
 @fullWidth: false;
 @paddingTop: 6;
@@ -1090,10 +1090,10 @@ a.nav-link {
 @showSubitle: false;
 @showText: false;
 @showButtons: true;
-@uname__15: "file:///Users/daniela/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2020-10-10_090432/assets/images/mbr.jpg";
+@uname__15: "file:///Users/daniela/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2020-10-15_115851/assets/images/mbr.jpg";
 @uname__16: false;
 @uname__17: #4479d9;
-@bg-value: "file:///Users/daniela/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2020-10-10_090432/assets/images/mbr.jpg";
+@bg-value: "file:///Users/daniela/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2020-10-15_115851/assets/images/mbr.jpg";
 @bg-type: "image";
 @bg-color-value: #4479d9;
 @bg-parallax: false;
@@ -1113,17 +1113,17 @@ a.nav-link {
 }
 }
 
-.cid-sd1DcVDwTi {
+.cid-sdvsAOc5HR {
 @fullWidth: false;
 @paddingTop: 6;
 @paddingBottom: 3;
 @showTitle: true;
 @showText: false;
 @showButtons: false;
-@uname__13: "file:///Users/daniela/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2020-10-10_090432/assets/images/mbr-1.jpg";
+@uname__13: "file:///Users/daniela/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2020-10-15_115851/assets/images/mbr-1.jpg";
 @uname__14: false;
 @uname__15: #232323;
-@bg-value: "file:///Users/daniela/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2020-10-10_090432/assets/images/mbr-1.jpg";
+@bg-value: "file:///Users/daniela/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2020-10-15_115851/assets/images/mbr-1.jpg";
 @bg-type: "image";
 @bg-color-value: #232323;
 @bg-parallax: false;
@@ -1150,7 +1150,7 @@ padding-bottom: (@paddingBottom * 1rem);
 }
 }
 
-.cid-sd1CI5fPbm {
+.cid-sdvsBcJB3I {
 @fullScreen: false;
 @fullWidth: false;
 @paddingTop: 5;
@@ -1159,7 +1159,7 @@ padding-bottom: (@paddingBottom * 1rem);
 @showTitle: true;
 @showSubtitle: false;
 @showButtons: false;
-@uname__15: "../../app/themes/mobirise5/components/content4/../_images/background1.jpg";
+@uname__15: "file:///Users/daniela/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2020-10-15_115851/assets/images/background1.jpg";
 @uname__16: false;
 @uname__17: #ffffff;
 @bg-value: #ffffff;
@@ -1182,14 +1182,14 @@ padding-bottom: (@paddingBottom * 1rem);
 }
 }
 
-.cid-sduGksbwy6 {
+.cid-sdvsBFF9a7 {
 @fullScreen: false;
 @fullWidth: false;
 @paddingTop: 6;
 @paddingBottom: 6;
 @textWidth: 11;
 @showText: true;
-@uname__15: "../../app/themes/mobirise5/components/image3/../_images/background1.jpg";
+@uname__15: "file:///Users/daniela/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2020-10-15_115851/assets/images/background1.jpg";
 @uname__16: false;
 @uname__17: #ffffff;
 @bg-value: #ffffff;
@@ -1223,14 +1223,14 @@ img {
 }
 }
 
-.cid-sduGzCKaNY {
+.cid-sdvsChtN5O {
 @fullScreen: false;
 @fullWidth: false;
 @paddingTop: 6;
 @paddingBottom: 6;
 @textWidth: 11;
 @showText: true;
-@uname__15: "../../app/themes/mobirise5/components/image3/../_images/background1.jpg";
+@uname__15: "file:///Users/daniela/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2020-10-15_115851/assets/images/background1.jpg";
 @uname__16: false;
 @uname__17: #ffffff;
 @bg-value: #ffffff;
@@ -1264,7 +1264,7 @@ img {
 }
 }
 
-.cid-sd1CIBVEP6 {
+.cid-sdvsCNfVNG {
 @fullScreen: false;
 @fullWidth: false;
 @paddingTop: 5;
@@ -1273,7 +1273,7 @@ img {
 @showTitle: true;
 @showSubtitle: false;
 @showButtons: false;
-@uname__15: "../../app/themes/mobirise5/components/content4/../_images/background1.jpg";
+@uname__15: "file:///Users/daniela/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2020-10-15_115851/assets/images/background1.jpg";
 @uname__16: false;
 @uname__17: #ffffff;
 @bg-value: #ffffff;
@@ -1296,7 +1296,7 @@ img {
 }
 }
 
-.cid-sduZP2HHJo {
+.cid-sdvsDnKxvM {
 
 padding-top: (@paddingTop * 15px);
 padding-bottom: (@paddingBottom * 15px);
@@ -1304,333 +1304,5 @@ background-color: @bgColor;
 .mbr-section {
   text-align: center;
   color: #fff;
-}
-}
-
-.cid-sd1DON1uk5 {
-@fullWidth: false;
-@paddingTop: 6;
-@paddingBottom: 3;
-@showTitle: true;
-@showText: false;
-@showButtons: false;
-@uname__13: "file:///Users/daniela/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2020-10-10_090432/assets/images/mbr-2.jpg";
-@uname__14: false;
-@uname__15: #232323;
-@bg-value: "file:///Users/daniela/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2020-10-10_090432/assets/images/mbr-2.jpg";
-@bg-type: "image";
-@bg-color-value: #232323;
-@bg-parallax: false;
-@overlay: true;
-@overlayColor: #503223;
-@overlayOpacity: 0.4;
-
-padding-top: (@paddingTop * 1rem);
-padding-bottom: (@paddingBottom * 1rem);
-& when (@bg-type = 'color') {
-  background-color: @bg-value;
-}
-& when (@bg-type = 'image') {
-  background-image: url(../../../@bg-value);
-}
-.mbr-text, .mbr-section-btn {
-  color: #232323;
-}
-.card-title, .card-box {
-  color: #ffffff;
-}
-.mbr-text, .link-wrap {
-  color: #ffffff;
-}
-}
-
-.cid-sd1CJcTcQ5 {
-@fullScreen: false;
-@fullWidth: false;
-@paddingTop: 5;
-@paddingBottom: 2;
-@textWidth: 10;
-@showTitle: true;
-@showSubtitle: false;
-@showButtons: false;
-@uname__15: "../../app/themes/mobirise5/components/content4/../_images/background1.jpg";
-@uname__16: false;
-@uname__17: #ffffff;
-@bg-value: #ffffff;
-@bg-type: "color";
-@bg-color-value: #ffffff;
-@bg-parallax: false;
-@overlay: true;
-@overlayColor: #ffffff;
-@overlayOpacity: 0.7;
-
-& when not (@fullScreen) {
-  padding-top: (@paddingTop * 1rem);
-  padding-bottom: (@paddingBottom * 1rem);
-}
-& when (@bg-type = 'color') {
-  background-color: @bg-value;
-}
-& when (@bg-type = 'image') {
-  background-image: url(../../../@bg-value);
-}
-}
-
-.cid-sduGO04LQk {
-@fullScreen: false;
-@fullWidth: false;
-@paddingTop: 6;
-@paddingBottom: 6;
-@textWidth: 11;
-@showText: true;
-@uname__15: "../../app/themes/mobirise5/components/image3/../_images/background1.jpg";
-@uname__16: false;
-@uname__17: #ffffff;
-@bg-value: #ffffff;
-@bg-type: "color";
-@bg-color-value: #ffffff;
-@bg-parallax: false;
-@overlay: true;
-@overlayColor: #ffffff;
-@overlayOpacity: 0.7;
-
-& when not (@fullScreen) {
-  padding-top: (@paddingTop * 1rem);
-  padding-bottom: (@paddingBottom * 1rem);
-}
-& when (@bg-type = 'color') {
-  background-color: @bg-value;
-}
-& when (@bg-type = 'image') {
-  background-image: url(../../../@bg-value);
-}
-@media (max-width: 991px) {
-  .image-wrapper {
-    margin-bottom: 1rem;
-  }
-}
-.row {
-  flex-direction: row-reverse;
-}
-img {
-  width: 100%;
-}
-}
-
-.cid-sduGOwMkbV {
-@fullScreen: false;
-@fullWidth: false;
-@paddingTop: 6;
-@paddingBottom: 6;
-@textWidth: 11;
-@showText: true;
-@uname__15: "../../app/themes/mobirise5/components/image3/../_images/background1.jpg";
-@uname__16: false;
-@uname__17: #ffffff;
-@bg-value: #ffffff;
-@bg-type: "color";
-@bg-color-value: #ffffff;
-@bg-parallax: false;
-@overlay: true;
-@overlayColor: #ffffff;
-@overlayOpacity: 0.7;
-
-& when not (@fullScreen) {
-  padding-top: (@paddingTop * 1rem);
-  padding-bottom: (@paddingBottom * 1rem);
-}
-& when (@bg-type = 'color') {
-  background-color: @bg-value;
-}
-& when (@bg-type = 'image') {
-  background-image: url(../../../@bg-value);
-}
-@media (max-width: 991px) {
-  .image-wrapper {
-    margin-bottom: 1rem;
-  }
-}
-.row {
-  flex-direction: row-reverse;
-}
-img {
-  width: 100%;
-}
-}
-
-.cid-sd1E3WeUcH {
-@fullScreen: false;
-@fullWidth: false;
-@paddingTop: 5;
-@paddingBottom: 0;
-@textWidth: 10;
-@showTitle: true;
-@showSubtitle: false;
-@showButtons: false;
-@uname__15: "../../app/themes/mobirise5/components/content4/../_images/background1.jpg";
-@uname__16: false;
-@uname__17: #ffffff;
-@bg-value: #ffffff;
-@bg-type: "color";
-@bg-color-value: #ffffff;
-@bg-parallax: false;
-@overlay: true;
-@overlayColor: #ffffff;
-@overlayOpacity: 0.7;
-
-& when not (@fullScreen) {
-  padding-top: (@paddingTop * 1rem);
-  padding-bottom: (@paddingBottom * 1rem);
-}
-& when (@bg-type = 'color') {
-  background-color: @bg-value;
-}
-& when (@bg-type = 'image') {
-  background-image: url(../../../@bg-value);
-}
-}
-
-.cid-sdrrHBzVTV {
-@fullScreen: false;
-@fullWidth: false;
-@paddingTop: 4;
-@paddingBottom: 6;
-@textWidth: 10;
-@showText: true;
-@uname__15: "../../app/themes/mobirise5/components/image3/../_images/background1.jpg";
-@uname__16: false;
-@uname__17: #ffffff;
-@bg-value: #ffffff;
-@bg-type: "color";
-@bg-color-value: #ffffff;
-@bg-parallax: false;
-@overlay: true;
-@overlayColor: #ffffff;
-@overlayOpacity: 0.7;
-
-& when not (@fullScreen) {
-  padding-top: (@paddingTop * 1rem);
-  padding-bottom: (@paddingBottom * 1rem);
-}
-& when (@bg-type = 'color') {
-  background-color: @bg-value;
-}
-& when (@bg-type = 'image') {
-  background-image: url(../../../@bg-value);
-}
-@media (max-width: 991px) {
-  .image-wrapper {
-    margin-bottom: 1rem;
-  }
-}
-.row {
-  flex-direction: row-reverse;
-}
-img {
-  width: 100%;
-}
-}
-
-.cid-sd1yLct9HG {
-@fullScreen: false;
-@fullWidth: true;
-@paddingTop: 0;
-@paddingBottom: 0;
-@showTitle: true;
-@showText: true;
-@bgColor: #cfa18b;
-@usedRecaptcha: "false";
-
-& when not (@fullScreen) {
-  padding-top: (@paddingTop * 1rem);
-  padding-bottom: (@paddingBottom * 1rem);
-}
-background-color: @bgColor;
-.mbr-text, .mbr-section-btn {
-  color: #232323;
-  @media (max-width: 991px) {
-    text-align: center;
-  }
-}
-.mbr-text, .mbr-section-title {
-  @media (max-width: 991px) {
-    text-align: center;
-  }
-}
-a.btn {
-  height: 100%;
-  margin: 0;
-}
-.mbr-section-btn {
-  display: flex;
-  margin-bottom: 1rem;
-  width: 100%;
-  .btn {
-    width: 100%;
-  }
-}
-@media (max-width: 991px) {
-  .image-wrapper {
-    margin-bottom: 2rem;
-  }
-}
-.justify-content-center {
-  align-items: center;
-}
-}
-
-.cid-sd1yMDhxuk {
-@paddingTop: 1;
-@paddingBottom: 1;
-@reveal: false;
-@uname__8: "file:///Users/daniela/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2020-10-10_090432/assets/images/flat1000x1000075f.u1-1000x667.jpg";
-@uname__9: true;
-@uname__10: #b25c31;
-@bg-value: #b25c31;
-@bg-type: "color";
-@bg-color-value: #b25c31;
-@bg-parallax: false;
-@overlay: false;
-@overlayColor: #ffb18a;
-@overlayOpacity: 0;
-
-padding-top: (@paddingTop * 15px);
-padding-bottom: (@paddingBottom * 15px);
-& when (@bg-type = 'image') {
-  background-image: url(../../../@bg-value);
-}
-& when (@bg-type = 'color') {
-  background-color: @bg-value;
-}
-}
-
-.cid-sd1yN9pfOb {
-@fullWidth: true;
-@paddingTop: 1;
-@paddingBottom: 0;
-@showTitle: false;
-@showSubTitle: false;
-@showText: false;
-@items: 2;
-@bgColor: #ffffff;
-
-padding-top: (@paddingTop * 1rem);
-padding-bottom: (@paddingBottom * 1rem);
-background-color: @bgColor;
-img {
-  width: 120px;
-  margin: auto;
-}
-.card {
-  transition: all 0.3s;
-  height: fit-content;
-  padding: 1rem 0;
-  opacity: 0.7;
-  margin-bottom: 1rem;
-}
-@media (min-width: 992px) {
-  .card {
-    max-width: 12.5%;
-  }
 }
 }
